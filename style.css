@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: white;
+    border: black;
+    border-style: solid;
+    border-radius: 0px;
+}
+nav{
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+    border-radius: 0px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: wheat;
+    border-color: wheat;
+    border-style: solid;
+    border-width: thin;
+     margin: 25px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+font{
+    font-weight: 600;
+}
+
+div{
+    display: inline-flex;
+}
+.displayP{
+    margin:  25px;
+    background-color: wheat;
+    border-color: rosybrown;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+}
+main h1{
+    font-family: Lucida Handwriting;
+    color: blueviolet;
+}
+footer p{
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+footer{
+    border-color: black;
+    border-style: solid;
+
+}
+body h2{
+    color: slateblue;
+    border-color: slateblue;
+    border-style: outset;
+    border-radius: 30px;
+}
+main a{
+    text-decoration: none;
+    color: wheat;
+    border-color: wheat;
+    border-style: solid;
+    background-color: gray;
+}
